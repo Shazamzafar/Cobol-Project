@@ -1,0 +1,10 @@
+M:\CPT2120\BASEBALL-4\BASEBALL-4\bin\Debug\BASEBALL_4.exe
+M:\CPT2120\BASEBALL-4\BASEBALL-4\bin\Debug\BASEBALL_4.pdb
+M:\CPT2120\BASEBALL-4\BASEBALL-4\obj\Debug\BASEBALL-4.cblprojResolveAssemblyReference.cache
+M:\CPT2120\BASEBALL-4\BASEBALL-4\obj\Debug\BASEBALL_4.exe
+M:\CPT2120\BASEBALL-4\BASEBALL-4\obj\Debug\BASEBALL_4.pdb
+I:\CPT2120-Phlipot\Students\ZafarShazam\BASEBALL-4\BASEBALL-4\bin\Debug\BASEBALL_4.exe
+I:\CPT2120-Phlipot\Students\ZafarShazam\BASEBALL-4\BASEBALL-4\bin\Debug\BASEBALL_4.pdb
+I:\CPT2120-Phlipot\Students\ZafarShazam\BASEBALL-4\BASEBALL-4\obj\Debug\BASEBALL-4.cblprojResolveAssemblyReference.cache
+I:\CPT2120-Phlipot\Students\ZafarShazam\BASEBALL-4\BASEBALL-4\obj\Debug\BASEBALL_4.exe
+I:\CPT2120-Phlipot\Students\ZafarShazam\BASEBALL-4\BASEBALL-4\obj\Debug\BASEBALL_4.pdb
